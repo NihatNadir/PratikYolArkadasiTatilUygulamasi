@@ -1,6 +1,7 @@
 # PratikYolArkadasiTatilUygulamasi TR-ENG
 
 - Bu pratikte kullandıklarım switch-case if-else while döngüleri
+- What I use in this practice switch-case if-else while loops
 
 # Bu pratikte bir yardımcı seyehat uygulaması ile kullanıcılarımızın planlayacakları 3 günlük bir tatilde harcayacakları yaklaşık tutarı hesaplamalarına yardımcı oluyoruz. 
 
@@ -21,7 +22,7 @@
 - Ardından gidilecek lokasyon, kişi sayısı ve ulaşım aracı seçenekleriyle bir toplam fiyat hesaplayıp bunu kullanıcıya sundum.
 - Kullanıcıya başka bir tatil planlamak isteyip istemediğini sorup, istiyorsa uygulama ilk aşamadan çalıştırılıyor, kullanıcı istemiyorsa iyi günler dileyerek uygulamayı sonlandırıyoruz.
 
-- What I use in this practice switch-case if-else while loops
+
 
 # In this practice, we help our users calculate the approximate amount they will spend on a 3-day holiday they will plan with a companion travel application.
 
